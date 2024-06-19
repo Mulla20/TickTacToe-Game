@@ -12,7 +12,7 @@ public class TicTacToe implements ActionListener {
     JPanel button_panel = new JPanel();
     JLabel text_field = new JLabel();
     JButton[] button = new JButton[9];
-    boolean ;
+    boolean player1_turn;
 
 
     //Constructor
